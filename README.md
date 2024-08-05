@@ -1,0 +1,1 @@
+# gmail_copier_chrome_ext

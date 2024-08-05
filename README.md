@@ -32,3 +32,4 @@ Gmail Email Copier is a Chrome extension that copies the content of the currentl
 
 
 
+To use it, click the extensions puzzle piece icon on the top right of the browser, then click the pin next to it. Now the icon will display and when you are on a site, click the gmail icon. It's now copied to the clipboard.  
